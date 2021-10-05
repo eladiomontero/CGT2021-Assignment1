@@ -24,4 +24,4 @@ Finally, to make your virtual environment visible to jupyter:
 python -m ipykernel install --user --name=cgtenv
 ```
 
-The [CGT-Exercise](CGT-Exercise.ipynb) is a jupyter notebook that contains all the information required to complete your assignment.
+The [CGT-Assignment1](CGT-Assignment1.ipynb) file is a jupyter notebook that contains all the information required to complete your assignment.
